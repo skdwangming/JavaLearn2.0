@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="InterfaceAbstractClass" />
+        <module name="泛型" />
+        <module name="Serializable" />
+        <module name="Encode" />
+        <module name="Collection" />
+        <module name="ArrayArrayList" />
+        <module name="题目" />
+        <module name="设计模式" />
+        <module name="JSON" />
+        <module name="网络" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
