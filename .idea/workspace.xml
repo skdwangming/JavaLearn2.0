@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="449b4fd2-09ca-487f-bf58-07f14213e903" name="Default Changelist" comment="" />
+    <list default="true" id="1ac5c6c5-9628-4e0c-a0ea-30f963ba63d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/LackMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayArrayList/ArrayArrayList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Collection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encode/Encode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterfaceAbstractClass/InterfaceAbstractClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON/JSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializable/Serializable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/My.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/泛型.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/网络.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/题目.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,41 +46,29 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="localRepository" value="$USER_HOME$/repository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.2/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="1QXlUMvrGxbYaCbvRjMNpf5TegZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1QomD8oWg1Q5tuJAOAz5r2Y5f9z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/设计模式/src/main/java/单例" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.63678163" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IdeaProject\JavaLearn2\题目\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IdeaProject\JavaLearn2\设计模式\src\main\java\单例" />
-      <recent name="D:\IdeaProject\JavaLearn2\网络\src\main\java" />
-      <recent name="D:\IdeaProject\JavaLearn2\题目\src\main\java" />
-      <recent name="D:\IdeaProject\JavaLearn2\泛型\src\main\java" />
-      <recent name="D:\IdeaProject\JavaLearn2\ArrayArrayList\src\main\java" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,18 +82,86 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.MyTest.test">
+    <configuration name="MyTest.readFileByChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="readFileByChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.readFileByChar3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="readFileByChar3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.writeFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="writeFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.writeFileByChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="writeFileByChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="JUnit.MyTest.writeFileByChar" />
+        <item itemvalue="JUnit.MyTest.readFileByChar3" />
+        <item itemvalue="JUnit.MyTest.readFileByChar" />
+        <item itemvalue="JUnit.MyTest.writeFile" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="449b4fd2-09ca-487f-bf58-07f14213e903" name="Default Changelist" comment="" />
-      <created>1567924836423</created>
+      <changelist id="1ac5c6c5-9628-4e0c-a0ea-30f963ba63d3" name="Default Changelist" comment="" />
+      <created>1568445200564</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567924836423</updated>
-      <workItem from="1567924840351" duration="400000" />
-      <workItem from="1567925247693" duration="4210000" />
+      <updated>1568445200564</updated>
+      <workItem from="1568445201856" duration="2936000" />
+      <workItem from="1568468923377" duration="76000" />
+      <workItem from="1568974330732" duration="2567000" />
+      <workItem from="1569058816828" duration="15000" />
+      <workItem from="1571453555536" duration="53000" />
+      <workItem from="1571453637532" duration="317000" />
+      <workItem from="1571454160646" duration="33000" />
+      <workItem from="1571455802149" duration="5148000" />
+      <workItem from="1571540401041" duration="8072000" />
     </task>
     <servers />
   </component>
@@ -92,7 +173,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
