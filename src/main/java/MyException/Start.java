@@ -9,7 +9,6 @@ public class Start {
         bank.pushMoney(100);
         try {
             bank.pullMoney(200);
-
         } catch (LackMoneyException m) {
             m.printStackTrace();
             System.out.println(m.getAmount());

@@ -1,8 +1,8 @@
 package fastJson.demo;
 
 import com.alibaba.fastjson.JSON;
-import org.junit.ClassRule;
-import org.junit.Test;
+import fastJson.bean.PersonInfoBean;
+import org.junit.jupiter.api.Test;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

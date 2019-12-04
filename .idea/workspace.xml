@@ -2,30 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac5c6c5-9628-4e0c-a0ea-30f963ba63d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/LackMoneyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyException/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombok/Lombok.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombok/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombok/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lombok/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/GetNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyCountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/SemaphoreDemoMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/StopThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/ThreadTestMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/UnLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/UseSemaphore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyArray_Time_Enum_Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIOReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIOReview2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIoExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyNet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyPrintGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/MultiThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/ThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/Threadclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/session.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泛型/src/main/java/demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/网络/src/main/java/ServerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/src/main/java/Java8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/src/main/java/My/ProducerConsumerTestMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/题目/src/main/java/ProducerConsumerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayArrayList/ArrayArrayList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collection/Collection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encode/Encode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceAbstractClass/InterfaceAbstractClass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON/JSON.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearn2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serializable/Serializable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/My.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/泛型/泛型.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络/网络.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON/src/main/java/fastJson/demo/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JSON/src/main/java/fastJson/demo/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyException/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyException/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaLearn2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writeFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/JavaNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/网络/src/main/java/JavaNet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/题目/题目.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +60,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -65,10 +107,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/题目/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/founder/测试/指纹系统更新2019-11-12/指纹系统更新2019-11-12/flyingFish-1.0-SNAPSHOT.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.63678163" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,52 +132,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest.test">
-    <configuration name="MyTest.readFileByChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaLearn2" />
+  <component name="RunManager" selected="JUnit.Start.test1">
+    <configuration name="GetNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetNames" />
+      <module name="Thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerTestMy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="My.ProducerConsumerTestMy" />
+      <module name="题目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="My.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTestMy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTestMy" />
+      <module name="Thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="题目" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="readFileByChar" />
+      <option name="MAIN_CLASS_NAME" value="Java8" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.readFileByChar3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Start.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaLearn2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="readFileByChar3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaLearn2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.writeFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaLearn2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="writeFile" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest.writeFileByChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaLearn2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyTest" />
-      <option name="METHOD_NAME" value="writeFileByChar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyException" />
+      <option name="MAIN_CLASS_NAME" value="MyException.Start" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,13 +188,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyTest.test" />
-        <item itemvalue="JUnit.MyTest.writeFileByChar" />
-        <item itemvalue="JUnit.MyTest.readFileByChar3" />
-        <item itemvalue="JUnit.MyTest.readFileByChar" />
-        <item itemvalue="JUnit.MyTest.writeFile" />
+        <item itemvalue="JUnit.Start.test1" />
+        <item itemvalue="JUnit.Java8.test2" />
+        <item itemvalue="Application.GetNames" />
+        <item itemvalue="Application.ThreadTestMy" />
+        <item itemvalue="Application.ProducerConsumerTestMy (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -162,7 +218,32 @@
       <workItem from="1571454160646" duration="33000" />
       <workItem from="1571455802149" duration="5148000" />
       <workItem from="1571540401041" duration="8072000" />
+      <workItem from="1571752066588" duration="2422000" />
+      <workItem from="1571838817823" duration="3164000" />
+      <workItem from="1571932542784" duration="218000" />
+      <workItem from="1572012620766" duration="4361000" />
+      <workItem from="1572099261929" duration="12042000" />
+      <workItem from="1572268494157" duration="5635000" />
+      <workItem from="1572432561100" duration="11508000" />
+      <workItem from="1572580660079" duration="1367000" />
+      <workItem from="1572751691868" duration="4439000" />
+      <workItem from="1572943880338" duration="7325000" />
+      <workItem from="1573207928207" duration="1063000" />
+      <workItem from="1573482751829" duration="6606000" />
+      <workItem from="1573618859522" duration="209000" />
+      <workItem from="1573619089380" duration="1788000" />
+      <workItem from="1573698382529" duration="12338000" />
+      <workItem from="1574245150719" duration="2760000" />
+      <workItem from="1574653468367" duration="35377000" />
     </task>
+    <task id="LOCAL-00001" summary="IO&#10;Exception">
+      <created>1571752201951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571752201951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,5 +261,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IO&#10;Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO&#10;Exception" />
   </component>
 </project>

@@ -1,8 +1,15 @@
+import org.junit.jupiter.api.Test;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLConnection;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 public class JavaNet {
 //    public static void main(String[] args) {
@@ -71,5 +78,36 @@ public class JavaNet {
         }
         String result = sb.toString();
         System.out.println(result);
+    }
+
+    @Test
+    public void test1(){
+        String urlStr = "https://www.runoob.com/java/net-url-header.html";
+        URL url = null;
+        URLConnection urlConnection = null;
+        try {
+            url = new URL(urlStr);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
+        try {
+            urlConnection = url.openConnection();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Map<String, List<String>> headerFields = urlConnection.getHeaderFields();
+        Set<String> strings = headerFields.keySet();
+        for(String s : strings){
+            String headerField = urlConnection.getHeaderField(s);
+            System.out.println(s+"  ==>>  "+headerField);
+
+        }
+    }
+
+    @Test
+    public void test2() throws Exception{
+        String urlStr = "https://www.runoob.com/java/net-url.html";
+        URL url = new URL(urlStr);
+        System.out.println(url.getPort());
     }
 }

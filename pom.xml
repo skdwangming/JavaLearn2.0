@@ -19,6 +19,8 @@
         <module>题目</module>
         <module>网络</module>
         <module>设计模式</module>
+        <module>Lombok</module>
+        <module>Thread</module>
     </modules>
     <dependencies>
         <dependency>
