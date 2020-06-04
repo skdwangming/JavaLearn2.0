@@ -1,4 +1,4 @@
-package 单例;
+package design.singleton;
 
 /**
  * 懒汉式:

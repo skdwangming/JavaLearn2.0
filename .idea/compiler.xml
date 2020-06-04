@@ -7,19 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NetWork" />
+        <module name="Encode" />
         <module name="InterfaceAbstractClass" />
-        <module name="Serializable" />
+        <module name="Fanxing" />
         <module name="DesignMode" />
         <module name="Collection" />
         <module name="Lombok" />
         <module name="ArrayArrayList" />
-        <module name="Encode" />
+        <module name="Serializable" />
         <module name="Exercises" />
-        <module name="Fanxing" />
+        <module name="NetWork" />
         <module name="JSON" />
         <module name="Thread" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesignMode" target="1.8" />
+      <module name="Exercises" target="1.8" />
+      <module name="Fanxing" target="1.8" />
+      <module name="NetWork" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
