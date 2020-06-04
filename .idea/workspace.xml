@@ -2,59 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac5c6c5-9628-4e0c-a0ea-30f963ba63d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lombok/Lombok.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lombok/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/Thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/GetNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyCountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/SemaphoreDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/SemaphoreDemoMy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/StopThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/ThreadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/ThreadTestMy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/UnLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread/src/main/java/UseSemaphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyArray_Time_Enum_Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIOReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIOReview2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIoExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyNet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyPrintGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/MultiThreadServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/ThreadServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyThread/Threadclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/session.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/泛型/src/main/java/demo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/网络/src/main/java/ServerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/src/main/java/Java8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/src/main/java/My/ProducerConsumerTestMy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题目/src/main/java/ProducerConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JavaLearn2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/src/main/java/exercises/today/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/createObject/CreateObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/createObject/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/createObject2/Create.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/createObject3/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/createObject3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/destory/Destory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/createAndDestoryObject/destory/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON/src/main/java/fastJson/demo/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JSON/src/main/java/fastJson/demo/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyException/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyException/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyIO/MyIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lombok/Lombok.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/Thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaLearn2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/writeFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/网络/src/main/java/JavaNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/网络/src/main/java/JavaNet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泛型/src/main/java/demo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fanxing/src/main/java/demo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/JavaNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/src/main/java/JavaNet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/ServerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/src/main/java/ServerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/TCPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/src/main/java/TCPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/UDPDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/src/main/java/UDPDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/网络/src/main/java/UploadImag.java" beforeDir="false" afterPath="$PROJECT_DIR$/NetWork/src/main/java/UploadImag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignMode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/main/java/单例/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignMode/src/main/java/单例/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/main/java/单例/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignMode/src/main/java/单例/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/java/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/main/java/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/java/Java8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/main/java/Java8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/java/My/ProducerConsumerTestMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/main/java/My/ProducerConsumerTestMy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/java/ProducerConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/main/java/ProducerConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/src/main/resources/sort" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/main/resources/sort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/题目/target/classes/sort" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/target/classes/sort" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +66,9 @@
     <expand />
     <select />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -82,15 +77,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Arrays.copyOf</find>
+      <find>checkValidDateDetail</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/repository" />
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.2" />
-        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.2/conf/settings.xml" />
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -99,53 +100,52 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="268" />
+    <option name="y" value="13" />
+    <option name="width" value="1538" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1QomD8oWg1Q5tuJAOAz5r2Y5f9z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/题目/src/main/java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/founder/测试/指纹系统更新2019-11-12/指纹系统更新2019-11-12/flyingFish-1.0-SNAPSHOT.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Helper.class" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.63678163" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/Helper.class" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\wm\IdeaProject\JavaLearn2.0\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\wm\IdeaProject\JavaLearn2.0\src\main\java" />
+      <recent name="F:\wm\IdeaProject\JavaLearn2.0\src\main\java\MyThread" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.Start.test1">
-    <configuration name="GetNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetNames" />
-      <module name="Thread" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumerTestMy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="My.ProducerConsumerTestMy" />
-      <module name="题目" />
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createAndDestoryObject.destory.Test" />
+      <module name="JavaLearn2.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="My.*" />
+          <option name="PATTERN" value="createAndDestoryObject.destory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,34 +153,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTestMy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadTestMy" />
-      <module name="Thread" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.today.Test1" />
+      <module name="Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.today.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="题目" />
+    <configuration name="MyCollection.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2.0" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Java8" />
+      <option name="MAIN_CLASS_NAME" value="MyCollection" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaLearn2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyException.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyException" />
-      <option name="MAIN_CLASS_NAME" value="MyException.Start" />
-      <option name="METHOD_NAME" value="test1" />
+    <configuration name="MyTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLearn2.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Start.test1" />
-        <item itemvalue="JUnit.Java8.test2" />
-        <item itemvalue="Application.GetNames" />
-        <item itemvalue="Application.ThreadTestMy" />
-        <item itemvalue="Application.ProducerConsumerTestMy (1)" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="JUnit.MyTest.test3" />
+        <item itemvalue="JUnit.MyTest.test2" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +245,10 @@
       <workItem from="1573698382529" duration="12338000" />
       <workItem from="1574245150719" duration="2760000" />
       <workItem from="1574653468367" duration="35377000" />
+      <workItem from="1578378907761" duration="17183000" />
+      <workItem from="1579155126644" duration="4256000" />
+      <workItem from="1585103424378" duration="588000" />
+      <workItem from="1591253414563" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="IO&#10;Exception">
       <created>1571752201951</created>
@@ -246,24 +260,150 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_test2 - 2020.01.07 at 15h 16m 01s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.01.07 at 15h 23m 33s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.01.07 at 15h 23m 40s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.01.07 at 15h 31m 06s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test2 - 2020.01.15 at 15h 41m 57s.xml">
+      <configuration name="MyTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test3 - 2020.01.15 at 20h 58m 58s.xml">
+      <configuration name="MyTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test3 - 2020.01.15 at 21h 00m 13s.xml">
+      <configuration name="MyTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test3 - 2020.01.15 at 21h 00m 25s.xml">
+      <configuration name="MyTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test3 - 2020.01.15 at 21h 12m 39s.xml">
+      <configuration name="MyTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test3 - 2020.01.15 at 21h 13m 06s.xml">
+      <configuration name="MyTest.test3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IO&#10;Exception" />
     <option name="LAST_COMMIT_MESSAGE" value="IO&#10;Exception" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ArrayArrayList</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.63678163" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -7,16 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Encode" />
+        <module name="NetWork" />
         <module name="InterfaceAbstractClass" />
-        <module name="设计模式" />
-        <module name="网络" />
-        <module name="泛型" />
+        <module name="Serializable" />
+        <module name="DesignMode" />
+        <module name="Collection" />
         <module name="Lombok" />
         <module name="ArrayArrayList" />
-        <module name="Serializable" />
-        <module name="Collection" />
-        <module name="题目" />
+        <module name="Encode" />
+        <module name="Exercises" />
+        <module name="Fanxing" />
         <module name="JSON" />
         <module name="Thread" />
       </profile>

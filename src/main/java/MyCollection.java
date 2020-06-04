@@ -1,4 +1,3 @@
-import com.sun.xml.internal.xsom.XSUnionSimpleType;
 import org.junit.jupiter.api.Test;
 import org.omg.CosNaming.IstringHelper;
 
